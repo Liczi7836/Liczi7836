@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Liczi7836
-- 👀 I’m interested in programming JAVA
-- 🌱 I’m currently learning docker and postgresql
+- 👋 Hi, I’m Grzegorz
+- 👀 I’m currently programming in APEX + LWC
+- 🌱 I’m currently learning Dart + flutter
 - 📫 How to reach me grzegorzwaszczynski.real@gmail.com
 
 <!---
